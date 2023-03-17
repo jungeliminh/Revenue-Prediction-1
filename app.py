@@ -2,7 +2,7 @@ import pickle
 import sklearn
 import numpy as np
 
-filename = 'model.pickle'
+filename = 'model.Revenue Prediction'
 
 model = pickle.load(open(filename, "rb"))
 
